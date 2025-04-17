@@ -7,12 +7,12 @@ This project showcases practical expertise in designing and configuring a secure
 
 
 ### Steps:
-1. Setting Up a Virtual Private Cloud (VPC).
-2. Configuring Subnets within the VPC.
-3. Creating an Internet Gateway and attaching it to the VPC.
-4. Enabling Internet Connectivity with the Internet Gateway by setting up Routing Tables.
-5. Enabling Outbound Internet Access through a NAT Gateway.
-6. Establishing VPC Peering Connections.
+1. [Setting Up a Virtual Private Cloud (VPC)](#1-setting-up-a-virtual-private-cloud)
+2. [Configuring Subnets within the VPC](#2-configuring-subnets-within-the-vpc)
+3. [Creating an Internet Gateway and attaching it to the VPC](#3-Creating-an-Internet-Gateway-and-attaching-it-to-the-VPC)
+4. [Enabling Internet Connectivity with the Internet Gateway by setting up Routing Tables](#4-Enabling-Internet-Connectivity-with-the-Internet-Gateway-by-setting-up-Routing-Tables)
+5. [Enabling Outbound Internet Access through a NAT Gateway](#5-Enabling-Outbound-Internet-Access-through-a-NAT-Gateway)
+6. [Establishing VPC Peering Connections](#6-Establishing-VPC-Peering-Connections)
 
 ## Part 1 - Setting Up a Virtual Private Cloud (VPC)
 1. Navigate to the search bar and enter "VPC", then click on the VPC icon.
